@@ -5,7 +5,7 @@ import requests
 import io
 
 # Твой токен бота
-TOKEN = "ANSARITOTOKEN"
+TOKEN = "7971642283:AAH37BdEYSbYUF9_2vz4wIK0xp7o-vCG2xw"
 bot = telebot.TeleBot(TOKEN)
 
 # Сценарные ответы
